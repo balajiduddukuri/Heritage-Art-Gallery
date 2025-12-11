@@ -1,7 +1,9 @@
 export enum ArtStyle {
   WARLI = 'Warli Art',
   PATTACHITRA = 'Odisha Pattachitra',
-  BAPU = 'Bapu Art Style'
+  BAPU = 'Bapu Art Style',
+  MADHUBANI = 'Madhubani Art',
+  NEON = 'Neon Heritage'
 }
 
 export interface GeneratedArt {

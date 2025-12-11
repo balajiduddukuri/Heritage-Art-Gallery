@@ -35,5 +35,26 @@ Use delicate outlines, light shading, and clean negative space.
 Add traditional Indian cultural elements—sarees, turbans, rural scenes, mythological characters, or everyday life moments.
 Color palette: soft pastels, warm earthy tones, or simple two-tone ink style.
 Overall mood: calm, nostalgic, poetic, and full of warmth.`
+  },
+  [ArtStyle.MADHUBANI]: {
+    style: ArtStyle.MADHUBANI,
+    description: "Vibrant folk art from Mithila, characterized by geometric patterns and nature.",
+    prompt: `Create a traditional Madhubani (Mithila) painting.
+Use double-line borders, filled with intricate cross-hatching and geometric patterns.
+Subject: Nature scenes (birds, fish, turtles, trees of life), deities, or festive rituals.
+Colors: Vibrant natural dyes—ochre yellow, deep red, bright green, and indigo blue, on a textured handmade paper background.
+Key technique: No empty space; fill gaps with flowers, leaves, and geometric shapes.
+Features: Facial profiles with large, almond-shaped eyes and pointed noses.
+Vibe: Folk, earthy, intricate, and celebrating nature.`
+  },
+  [ArtStyle.NEON]: {
+    style: ArtStyle.NEON,
+    description: "A futuristic fusion of traditional motifs and cyberpunk neon aesthetics.",
+    prompt: `Create a 'Neon Heritage' art piece that fuses ancient Indian art with cyberpunk aesthetics.
+Reimagine traditional motifs—such as intricate mandalas, lotus flowers, paisley patterns, or stylized mythological figures—constructed entirely from glowing neon glass tubes.
+Background: Dark, moody industrial texture (brick or metal grid) or deep midnight violet to maximize contrast.
+Colors: High-voltage electric pinks, cyan blues, lime greens, and bright oranges against the dark background.
+Style: Luminous, sleek, and modern. Focus on the 'glow' effect and light reflections.
+Atmosphere: Energetic, futuristic, yet culturally rooted. A blend of the old world and the electric future.`
   }
 };

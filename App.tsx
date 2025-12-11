@@ -80,6 +80,8 @@ const App: React.FC = () => {
       case ArtStyle.WARLI: return "Sketching tribal rhythms...";
       case ArtStyle.PATTACHITRA: return "Painting divine narratives...";
       case ArtStyle.BAPU: return "Drawing soulful expressions...";
+      case ArtStyle.MADHUBANI: return "Weaving geometric folk tales...";
+      case ArtStyle.NEON: return "Igniting cultural lights...";
       default: return "Creating masterpiece...";
     }
   };
